@@ -213,9 +213,9 @@
 .icon img{
     transition: all 1.5s;
 }
-.icon:hover img{
+/* .icon:hover img{
     transform: translate(2px,2px);
-}
+} */
 .icon img{
     width: 45px;
     height: 45px;
